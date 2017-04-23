@@ -1,0 +1,11 @@
+{
+  "name": "Exloc Code Example",
+  "description": "An example repository for consumption by exloc.io.",
+  "scripts": {
+    "start": "node hello.js"
+  },
+  "dependencies": {
+    "node": "6.10.2"
+  },
+  "license": "MIT"
+}
